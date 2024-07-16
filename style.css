@@ -28,6 +28,20 @@ Images:
     - (You may use any image you would like for the background!)
 */
 
+body {
+    background-image: url(https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg);
+    background-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: #6d00fb ;
+    text-decoration: underline;
+    border-radius: 25px;
+    background-image: linear-gradient(to bottom, #74c9f1 , #fb4040);
+    box-shadow: #dbff39;
+}
+
 #jordans-1 {
     height: 400px;
     width: 600px;
