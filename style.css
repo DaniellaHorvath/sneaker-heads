@@ -31,6 +31,7 @@ Images:
 body {
     background-image: url(https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg);
     background-size: 100%;
+    
 }
 
 h1 {
@@ -47,7 +48,7 @@ h1 {
 #jordans-1 {
     height: 400px;
     width: 600px;
-    box-shadow: 3px 1px blue;
+    box-shadow: 3px 1px 5px blue;
     
     
 }
@@ -63,7 +64,6 @@ h1 {
 }
 
 #jordans-1-desc a {
-    
     color: white;
     font-size: 1.5rem;
     text-decoration: none;
